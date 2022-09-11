@@ -1,0 +1,18 @@
+vectors:
+
+1) begin()
+2) end() - >iterator
+so i = a.begin() -->print(*i)
+3) size() -->prints size
+for int i=0;i<a.ssize();i++
+print(a[i])
+4) a.push_back()
+5) a.pop_back()
+6) a.erase()
+7) a.swap(b) -->swap 2 vectors
+8) a.front() --> returns first element
+9) a.back() -->last element
+10) a.insert(pointerofthelocation , no) 
+a.insert(a.begin(),5)
+11) a.clear()
+12) 
